@@ -1,6 +1,6 @@
 # zivallo
 
-A new Flutter project.
+A new Flutter project for Scrolling view and Wishlist
 
 ## Getting Started
 
